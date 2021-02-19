@@ -1,0 +1,20 @@
+{
+  "name": "@codeat3/a-to-z-emoticons-db",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codeat3/a-to-z-emoticons-db.git"
+  },
+  "keywords": [],
+  "author": "Swapnil Sarwe <swapnilsarwe@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codeat3/a-to-z-emoticons-db/issues"
+  },
+  "homepage": "https://github.com/codeat3/a-to-z-emoticons-db#readme"
+}

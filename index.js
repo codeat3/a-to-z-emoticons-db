@@ -1,4 +1,4 @@
-var atoz = [
+module.exports.atoz = [
     {
         "id": 1,
         "alphabet": "a",
@@ -156,4 +156,3 @@ var atoz = [
         "text": "zebra"
     }
 ];
-module.exports.atoz = atoz;
